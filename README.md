@@ -1,4 +1,4 @@
-<h1 align="center"> NLW HEAT BACKEND </h1>
+<h1 align="center"> NLW HEAT REACTJS </h1>
 <p align="center"> 🚀 Projeto construído na NLW para compartilhamento de mensagens. </p>
 
 <h4 align="center"> 
